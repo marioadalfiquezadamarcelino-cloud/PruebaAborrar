@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mangas SYSTEM "manga.dtd">
+<!-- enlace:[https://github.com/marioadalfiquezadamarcelino-cloud/PruebaAborrar/blob/master/manga.xml]-->
 <mangas>
     <manga id="m1">
         <title>One Piece</title>
