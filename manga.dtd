@@ -1,0 +1,11 @@
+<!ELEMENT mangas (manga+)>
+<!ELEMENT manga (title, author, genre, chapters, volumes, publication_date, status, synopsis)>
+<!ATTLIST manga id ID #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT chapters (#PCDATA)>
+<!ELEMENT volumes (#PCDATA)>
+<!ELEMENT publication_date (#PCDATA)>
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT synopsis (#PCDATA)>

@@ -1,1 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mangas SYSTEM "manga.dtd">
+<mangas>
+    <manga id="m1">
+        <title>One Piece</title>
+        <author>Eiichiro Oda</author>
+        <genre>Adventure / Fantasy</genre>
+        <chapters>1060</chapters>
+        <volumes>104</volumes>
+        <publication_date>19970722</publication_date>
+        <status>Ongoing</status>
+        <synopsis>La historia sigue a Monkey D. Luffy y su tripulación en busca del legendario tesoro conocido como "One Piece".</synopsis>
+    </manga>
+
+    <manga id="m2">
+        <title>Naruto</title>
+        <author>Masashi Kishimoto</author>
+        <genre>Action / Ninja</genre>
+        <chapters>700</chapters>
+        <volumes>72</volumes>
+        <publication_date>19990921</publication_date>
+        <status>Finished</status>
+        <synopsis>Naruto Uzumaki, un joven ninja, sueña con convertirse en el Hokage de su aldea mientras se enfrenta a enemigos y descubre su destino.</synopsis>
+    </manga>
+
+    <manga id="m3">
+        <title>Attack on Titan</title>
+        <author>Hajime Isayama</author>
+        <genre>Dark / Action / Drama</genre>
+        <chapters>139</chapters>
+        <volumes>34</volumes>
+        <publication_date>20090909</publication_date>
+        <status>Finished</status>
+        <synopsis>La humanidad lucha por sobrevivir contra gigantescos titanes devoradores de hombres mientras descubre oscuros secretos sobre su mundo.</synopsis>
+    </manga>
+
+    <manga id="m4">
+        <title>My Hero Academia</title>
+        <author>Kōhei Horikoshi</author>
+        <genre>Action / Superheroes</genre>
+        <chapters>414</chapters>
+        <volumes>38</volumes>
+        <publication_date>20140707</publication_date>
+        <status>Ongoing</status>
+        <synopsis>En un mundo donde casi todos tienen superpoderes, Izuku Midoriya se esfuerza por convertirse en un héroe a pesar de haber nacido sin poderes.</synopsis>
+    </manga>
+
+    <manga id="m5">
+        <title>Death Note</title>
+        <author>Tsugumi Ohba y Takeshi Obata</author>
+        <genre>Mystery / Supernatural / Thriller</genre>
+        <chapters>108</chapters>
+        <volumes>12</volumes>
+        <publication_date>2003-12-01</publication_date>
+        <status>Finished</status>
+        <synopsis>Un estudiante encuentra un cuaderno que le permite matar a cualquiera cuyo nombre escriba en él, iniciando un juego de ingenio mortal con las autoridades.</synopsis>
+    </manga>
+</mangas>
